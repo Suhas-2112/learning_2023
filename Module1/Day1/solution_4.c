@@ -36,7 +36,7 @@ int main(){
     default:
       printf("Error! operator is not correct");
   }
-    return 0;
+  return 0;
 
 
 
